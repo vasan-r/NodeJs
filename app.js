@@ -10,5 +10,6 @@ calculateMultiply(a, b);
 require("./imp");
 console.log(name);
 console.log(city);
+
 console.log(globalThis === global);
 console.log("hello");
